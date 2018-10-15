@@ -1,4 +1,4 @@
-package ua.edu.lnu.sqa.blog.blog;
+package ua.edu.lnu.sqa.blog;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
